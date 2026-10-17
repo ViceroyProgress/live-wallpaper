@@ -1,7 +1,7 @@
 
 <p align="center">
   <img alt="Files Logo" src="resources/figma_promo_16x9.jpg" width="450" />
-  <h2 align="center">Lively Wallpaper</h2>
+  <h2 align="center">Live Wallpaper</h2>
 </p>
 
 [![GitHub release](https://img.shields.io/github/release/rocksdanister/lively/all.svg)](https://github.com/rocksdanister/lively/releases)
